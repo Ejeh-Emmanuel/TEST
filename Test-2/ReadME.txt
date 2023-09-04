@@ -1,0 +1,2 @@
+HTML stands for HyperText Markup Language and is primary purpose is for laying out the basic structure of a web page i.e it is used to layout the position of each element on a web page.
+The purpose os the <img> tag in HTML is to embed or display an image on the webpage and it can be used to display a specific image by inputing the image directory or path in the src(source) attribute of the <img> element.

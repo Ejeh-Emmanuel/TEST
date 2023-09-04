@@ -1,0 +1,12 @@
+*{
+    padding: 40px;
+}
+
+  body{
+    background-image: url(/Test-2/images/jr-korpa-4DykvhW8SsI-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    color: white;
+    line-height: 40px;
+  } 
